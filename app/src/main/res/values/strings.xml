@@ -2,7 +2,8 @@
 <resources>
 
     <string name="app_name">OMG Android</string>
-    <string name="hello_world">This is an inclusion of my name, which is Laura</string>
+    <string name="textview">Laura!</string>
     <string name="action_settings">Settings</string>
-
+    <string name="button">Update The TextView</string>
+    <string name="hint">A Name</string>
 </resources>
